@@ -1,0 +1,12 @@
+c:\users\admin\documents\visual studio 2015\Projects\tpy\tpy\bin\Debug\tpy.exe.config
+c:\users\admin\documents\visual studio 2015\Projects\tpy\tpy\bin\Debug\tpy.exe
+c:\users\admin\documents\visual studio 2015\Projects\tpy\tpy\bin\Debug\tpy.pdb
+c:\users\admin\documents\visual studio 2015\Projects\tpy\tpy\bin\Debug\Guna.UI2.dll
+c:\users\admin\documents\visual studio 2015\Projects\tpy\tpy\obj\Debug\tpy.Form1.resources
+c:\users\admin\documents\visual studio 2015\Projects\tpy\tpy\obj\Debug\tpy.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2015\Projects\tpy\tpy\obj\Debug\tpy.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2015\Projects\tpy\tpy\obj\Debug\tpy.exe
+c:\users\admin\documents\visual studio 2015\Projects\tpy\tpy\obj\Debug\tpy.pdb
+c:\users\admin\documents\visual studio 2015\Projects\tpy\tpy\obj\Debug\tpy.administration.resources
+c:\users\admin\documents\visual studio 2015\Projects\tpy\tpy\obj\Debug\tpy.professeur.resources
+c:\users\admin\documents\visual studio 2015\Projects\tpy\tpy\obj\Debug\tpy.csprojResolveAssemblyReference.cache
